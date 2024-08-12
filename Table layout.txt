@@ -1,0 +1,52 @@
+--customers
+- id
+- first name
+- last name
+- shipping address
+- city
+- state
+- zip
+- street address
+- city
+- state
+- zip
+- phone number
+- email address
+
+--suppliers
+- id 
+- name
+- website
+- phone number
+- account type
+- address
+- shipping
+
+products
+- id
+- name
+- description
+- cost
+- price
+- supplier_id
+- category_id
+- stock
+- image_url
+
+category
+- id
+- name
+
+orders
+- id
+- customer_id
+- order date (datetime
+- status
+- total price
+
+--order_items
+- id
+- order_id
+- product_id
+- quantity
+- price

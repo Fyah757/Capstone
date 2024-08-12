@@ -31,3 +31,5 @@ Use variables, if statements, loops, at least one form of collections, functions
 Use AJAX (Optional) 
 Use JSON or XML (Optional)
 Use JQuery (Optional)
+
+***FAVIVCON Folder and Table Layout.txt are not used for this assignment***
